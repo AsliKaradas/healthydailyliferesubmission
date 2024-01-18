@@ -427,6 +427,7 @@ footer {
     #video .container {
         width: 70%;
         margin: auto;
+        display: flex;
     }
 	#video iframe {
 		margin-top: 30px;
