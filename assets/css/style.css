@@ -193,7 +193,7 @@ hr {
 #video {
 	text-align: center;
 	margin: auto;
-	height: 600px;
+	height: 1000px;
 	clear: both;
 	display: flex;
 	background: #dee8f2;
@@ -220,16 +220,14 @@ hr {
 }
 .right-text,
 .left-video {
-	width: 50%;
+	width: 100%;
 }
 .right-text {
 	padding: 45px;
 	box-sizing: border-box;
 	margin: auto;
 	position: relative;
-	left: 35px;
 	line-height: 40px;
-	font-size: 160%;
 }
 .right-text h2 {
 	line-height: 45px;
