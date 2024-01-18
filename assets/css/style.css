@@ -119,6 +119,9 @@ h3 {
 #about {
 	height: 600px;
 	clear: both;
+    clear: both;
+    width: 70%;
+    margin: auto;
 }
 #about h1,
 #about p {
