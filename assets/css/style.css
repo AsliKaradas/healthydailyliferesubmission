@@ -207,7 +207,7 @@ hr {
     display: flex;
 } 
 #video iframe {
-	margin-top: 30px;
+	margin-top: 45px;
 	height: 500px;
 	clear: both;
 }
@@ -312,6 +312,9 @@ hr {
 	height: 40px;
 	background: transparent;
 	border: 1px solid #fff;
+	color: white;
+	padding-left: 10px;
+	font-size: 100%;
 }
 .radio-buttons input {
 	width: 20px !important;
@@ -332,6 +335,14 @@ hr {
 	background: white;
 	padding: 10px;
 	text-decoration: none;
+}
+#contact-form button {
+	cursor: pointer;
+}
+#contact-form button:hover {
+	background: #72acd9;
+	color: white;
+	border: #72acd9;
 }
 .yoga {
 	width: 50%;
