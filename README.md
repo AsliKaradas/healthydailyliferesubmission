@@ -1,7 +1,7 @@
 # Healthy Daily Life
 
 <br>
-![mockup](readme-images/sitemockup.png)
+![mockup](/healthydailyliferesubmission/healthydailyliferesubmission/readme-images/sitemockup.png)
 
 # Purpose of the project
 1. Yoga Resources and Guidance:
