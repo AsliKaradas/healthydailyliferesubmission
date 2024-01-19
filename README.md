@@ -1,7 +1,7 @@
 # Healthy Daily Life
 
 <br>
-![mockup](/healthydailyliferesubmission/healthydailyliferesubmission/readme-images/sitemockup.png)
+![mockup](readme-images/sitemockup.png)
 
 # Purpose of the project
 1. Yoga Resources and Guidance:
@@ -24,15 +24,20 @@
 # Features
 
 ### Navigation
-
+![Navigation](readme-images/navigation.png)
 ### Footer
-(docs/images/Footer.png)
+![Footer](readme-images/footer.png)
 
-Hero-image section<br>
-About Us section<br>
-Video section<br>
-Gallery section<br>
-Contact section<br>
+Hero-image section<br><br>
+![Hero image](readme-images/hero.png)
+About Us section<br><br>
+![About Us](readme-images/about.png)
+Video section<br><br>
+![Video](readme-images/Video.png)
+Gallery section<br><br>
+![Gallery](readme-images/gallery.png)
+Contact section<br><br>
+![Contact](readme-images/signup.png)
 
 <br>
 
