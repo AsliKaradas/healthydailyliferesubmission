@@ -196,13 +196,13 @@ hr {
 #video {
 	text-align: center;
 	margin: auto;
-	height: 1000px;
+	height: 600px;
 	clear: both;
 	display: flex;
 	background: #dee8f2;
 }
 #video .container {
-    width: 70%;
+    width: 80%;
     margin: auto;
     display: flex;
 } 
@@ -245,9 +245,9 @@ hr {
 .right-text {
 	padding: 45px;
 	box-sizing: border-box;
-	margin: auto;
 	position: relative;
 	line-height: 40px;
+	text-align: left;
 }
 .right-text h2 {
 	line-height: 45px;
@@ -400,6 +400,14 @@ footer {
 	h2 {
 		font-size: 210%;
 		margin-bottom: 20px;
+	}
+	#about {
+		width: 90%;
+	}
+	#about p:first-child {
+		width: 80%;
+		text-align: center;
+		margin: auto;
 	}
 	.right-text {
 		width: 100%;
