@@ -208,7 +208,6 @@ hr {
 } 
 #video iframe {
 	margin-top: 30px;
-	width: 75%;
 	height: 500px;
 	clear: both;
 }
@@ -394,10 +393,18 @@ footer {
     }
 }
 @media screen and (max-width: 950px) {
+	h1 {
+		font-size: 225%;
+		margin-bottom: 25px;
+	}
+	h2 {
+		font-size: 210%;
+		margin-bottom: 20px;
+	}
 	.right-text {
 		width: 100%;
 		box-sizing: border-box;
-		padding: 15px;
+		padding: 30px;
     	text-align: left;
 	}
 	.left-video {
@@ -408,7 +415,7 @@ footer {
 		width: 90%;
 		margin: auto;
 		display: block;
-	  }
+	}
 	.right-text h2 {
 		line-height: 45px;
 	}
@@ -422,7 +429,7 @@ footer {
 		margin-bottom: 25px;
 	}
 	#about {
-		width: 90%;
+		width: 100%;
 	}
 	#left-about {
 		padding-top: 30px;
