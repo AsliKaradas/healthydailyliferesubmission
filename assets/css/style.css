@@ -425,6 +425,8 @@ footer {
 		box-sizing: border-box;
 		padding: 30px;
     	text-align: left;
+		padding-right: 6%;
+    	padding-left: 1%;
 	}
 	.left-video {
 		padding: 0;
