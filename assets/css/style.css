@@ -451,7 +451,7 @@ footer {
 		width: 100%
 	}
 	.right-photos-text {
-		width: 88%;
+		width: 90%;
 		margin: auto;
 		padding: 30px 30px;
 	}
@@ -485,10 +485,22 @@ footer {
 	}
 	#contact-form form {
 		box-sizing: border-box;
-		width: 100%;
+		width: 90%;
 		padding-top: 30px;
 		height: auto;
 	}
+	#contact-form button {
+		cursor: pointer;
+	}
+	#contact-form button:hover {
+		background: #72acd9;
+		color: white;
+		border: #72acd9;
+	}
+	#feedback {
+		box-sizing: border-box;
+		height: 150px;
+	  }
 	.left-images {
 		width: 100%;
 	}
