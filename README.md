@@ -1,7 +1,7 @@
 # Healthy Daily Life
 
 <br>
-![mockup](readme-images/sitemockup.png)
+![NavigaMockuption](readme-images/sitemockup.png)
 
 # Purpose of the project
 1. Yoga Resources and Guidance:
@@ -17,7 +17,10 @@
 6. Personalized Wellness Plans:
     * Offer personalized wellness plans tailored to individual needs, incorporating yoga, meditation, and lifestyle practices to enhance overall well-being.
 ## User experience
-
+The layout is clean and well-organized, featuring high-quality images of serene yoga environments and practitioners in various poses. The navigation menu is intuitive, providing easy access to key sections such as "About Us and "Contact."<br>
+The website prioritizes user engagement by incorporating a blog that covers topics like mindfulness, wellness, and yoga philosophy. Articles are well-written, accompanied by relevant images, and updated regularly, creating a valuable resource for users interested in deepening their understanding of yoga.<br>
+Responsive design is a priority, ensuring that the website functions seamlessly across various devices, including desktops, tablets, and smartphones. This accessibility enhances the user experience for individuals who may want to access the site on the go.<br>
+In summary, the user experience of this yoga website is characterized by a serene aesthetic, intuitive navigation, informative content, interactive features, and seamless functionality, creating a harmonious online space that mirrors the principles of yoga itself.<br>
 
 <br>
 
