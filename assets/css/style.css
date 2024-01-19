@@ -383,12 +383,12 @@ footer {
     .right-text {
         line-height: 35px;
         font-size: 105%;
-    }
+    }/*
     #video iframe {
         margin-top: 95px;
         width: 87%;
         height: 400px;
-    }
+    }*/
     #small-logo {
         display: none;
     }
@@ -397,7 +397,8 @@ footer {
 	.right-text {
 		width: 100%;
 		box-sizing: border-box;
-		padding: 30px;
+		padding: 15px;
+    	text-align: left;
 	}
 	.left-video {
 		padding: 0;
@@ -449,6 +450,7 @@ footer {
 	}  
 	#video iframe {
 		width: 100%
+		margin-top: 15px;
 	}
 	.right-photos-text {
 		width: 90%;
