@@ -1,21 +1,19 @@
 # Healthy Daily Life
-
-<br>
-![Mockup](readme-images/sitemockup.png)
+![Mockup](readme-images/sitemockup.png)<br><br>
 
 # Purpose of the project
 1. Yoga Resources and Guidance:
-    * Provide a wealth of yoga resources, including pose tutorials, meditation guides, and wellness tips to support practitioners at every level.
+    Provide a wealth of yoga resources, including pose tutorials, meditation guides, and wellness tips to support practitioners at every level.
 2. Community Connection:
-    * Cultivate a supportive online community where yogis can connect, share experiences, and inspire each other on their yoga paths.
+    Cultivate a supportive online community where yogis can connect, share experiences, and inspire each other on their yoga paths.
 3. Class Offerings and Workshops:
-    * Showcase my personalized yoga classes, workshops, and events. Whether you're a beginner or an experienced yogi, there's a space for you to explore and deepen your practice.
+    Showcase my personalized yoga classes, workshops, and events. Whether you're a beginner or an experienced yogi, there's a space for you to explore and deepen your practice.
 4. Mindful Living Blog:
-    * Share insights on mindful living, holistic health, and the integration of yogic principles into everyday life. Expect articles that inspire and empower you on and off the mat.
+    Share insights on mindful living, holistic health, and the integration of yogic principles into everyday life. Expect articles that inspire and empower you on and off the mat.
 5. Event Calendar and Booking:
-    * Keep you informed about upcoming classes, workshops, and retreats. Easily book your spot to join me on the mat and in transformative yoga experiences.
+    Keep you informed about upcoming classes, workshops, and retreats. Easily book your spot to join me on the mat and in transformative yoga experiences.
 6. Personalized Wellness Plans:
-    * Offer personalized wellness plans tailored to individual needs, incorporating yoga, meditation, and lifestyle practices to enhance overall well-being.
+    Offer personalized wellness plans tailored to individual needs, incorporating yoga, meditation, and lifestyle practices to enhance overall well-being.
 ## User experience
 The layout is clean and well-organized, featuring high-quality images of serene yoga environments and practitioners in various poses. The navigation menu is intuitive, providing easy access to key sections such as "About Us and "Contact."<br>
 The website prioritizes user engagement by incorporating a blog that covers topics like mindfulness, wellness, and yoga philosophy. Articles are well-written, accompanied by relevant images, and updated regularly, creating a valuable resource for users interested in deepening their understanding of yoga.<br>
@@ -27,20 +25,20 @@ In summary, the user experience of this yoga website is characterized by a seren
 # Features
 
 ### Navigation
-![Navigation](readme-images/navigation.png)
+![Navigation](readme-images/navigation.png)<br><br>
 ### Footer
-![Footer](readme-images/footer.png)
+![Footer](readme-images/footer.png)<br><br>
 
 Hero-image section<br><br>
-![Hero image](readme-images/hero.png)
+![Hero image](readme-images/hero.png)<br><br>
 About Us section<br><br>
-![About Us](readme-images/about.png)
+![About Us](readme-images/about.png)<br><br>
 Video section<br><br>
-![Video](readme-images/Video.png)
+![Video](readme-images/Video.png)<br><br>
 Gallery section<br><br>
-![Gallery](readme-images/gallery.png)
+![Gallery](readme-images/gallery.png)<br><br>
 Contact section<br><br>
-![Contact](readme-images/signup.png)
+![Contact](readme-images/signup.png)<br><br>
 
 <br>
 
