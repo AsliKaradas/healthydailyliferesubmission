@@ -33,15 +33,16 @@ In essence, the "About Us" section is a narrative that humanizes the studio, con
 In summary, the video section is a multimedia hub that aims to provide a visual and immersive experience for website visitors. By incorporating a variety of video content, the section enhances the overall storytelling and engagement of the yoga studio's online presence.<br>
 ![Video](readme-images/Video.png)<br>
 
-### Gallery <br><br>
+### Gallery 
 The gallery section of a yoga website is a visual showcase that allows visitors to explore and appreciate the aesthetic aspects of the studio. It typically features a collection of high-quality images or photographs capturing various elements related to yoga, the studio space, events, classes, and the overall atmosphere.<br>
 ![Gallery](readme-images/gallery.png)<br>
 
-### Contact <br><br>
+### Contact 
 The contact section is designed to make it easy for visitors to reach out to the yoga studio through various channels. It provides the necessary contact details, tools for communication, and additional features to enhance the overall user experience.
 ![Contact](readme-images/signup.png)<br>
 
 <br>
+
 # Future features
 
 I want to add javascript to all pages and make the whole site more interactive.
